@@ -1,0 +1,4 @@
+.venv/
+.git/
+esp32-firmware/.gitignore
+esp32-firmware/.vscode/
